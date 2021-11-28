@@ -1,4 +1,4 @@
-
+// Student number grade system
 var marks = parseFloat(prompt("Enter your marks : "));
 
 if (marks >= 80 && marks <= 100){
